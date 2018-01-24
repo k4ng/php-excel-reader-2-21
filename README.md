@@ -6,6 +6,9 @@ https://code.google.com/p/php-excel-reader/
 
 I found some problem in original code. But you do not worry because now I have fix that problem.
 
+### Version
+v.2.21
+
 ### Support
 PHP version >= 5.3 && version < 7
 
