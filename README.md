@@ -4,7 +4,7 @@ Original code from:
 https://code.google.com/p/php-excel-reader/
 ```
 
-I found a problem in original code. But you do not worry because now I have fix that problem.
+I found a problem in original code. But you don't worry because now I have fix that problem.
 
 ### Version
 v.2.21
