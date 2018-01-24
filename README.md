@@ -12,4 +12,4 @@ v.2.21
 ### Support
 PHP version >= 5.3 && version < 7
 
-Actually for php 7.x I still hesitate, because I also have never tried it.
+> Actually for php 7.x I still hesitate, because I also have never tried it.
